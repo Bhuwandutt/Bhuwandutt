@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure for Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[GitHub.com/BhuwanDutt](GitHub.com/BhuwanDutt)](https://github.com/Bhuwandutt)
+- 👨‍💻 All of my projects are available at (GitHub.com/BhuwanDutt)](https://github.com/Bhuwandutt)
 
 - 📫 How to reach me **bhuwandutt2@gmail.com**
 
